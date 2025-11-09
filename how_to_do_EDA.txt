@@ -1,0 +1,4 @@
+STEP1: decribe the data
+       info about the attributes
+
+STEP2: measure the count of missing values.
